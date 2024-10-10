@@ -14,7 +14,7 @@
 
 ## 🧑‍💻 About Me
 
-I am a dedicated Python Developer with over 2 years of hands-on experience in web development and backend engineering. I specialize in designing, implementing, and deploying robust RESTful APIs using Django and Django Rest Framework. I am passionate about solving complex problems and continuously improving my skills.
+I am a dedicated Python Developer with over 3+ years of hands-on experience in web development and backend engineering. I specialize in designing, implementing, and deploying robust RESTful APIs using Django and Django Rest Framework. I am passionate about solving complex problems and continuously improving my skills.
 
 
 
