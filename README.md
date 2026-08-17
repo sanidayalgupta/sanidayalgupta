@@ -1,207 +1,195 @@
-# 👋 Hello, I'm Sanidayal Gupta!
+# 👋 Hi, I'm Sanidayal Gupta
 
+### 🐍 Python Developer | 🤖 Generative AI | 🧠 Agentic AI | ☁️ Cloud Native
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=750&lines=Building+Intelligent+AI+Agents+%F0%9F%A4%96;Engineering+Scalable+Python+Backends+%F0%9F%90%8D;Building+RAG+%26+MCP+Solutions+%F0%9F%A7%A0;Turning+Ideas+into+Production+Systems+%E2%9A%A1" alt="Typing SVG" />
+</p>
 
-![Python Developer](https://img.shields.io/badge/Python-Developer-brightgreen)
-
-![GCP Certified](https://img.shields.io/badge/GCP-Cloud_Digital_Leader-blue)
-
-
-
-![Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
-
-
-
-## 🧑‍💻 About Me
-
-I am a dedicated Python Developer with over 3+ years of hands-on experience in web development and backend engineering. I specialize in designing, implementing, and deploying robust RESTful APIs using Django and Django Rest Framework. I am passionate about solving complex problems and continuously improving my skills.
-
-
+<p align="center">
+  <a href="https://linkedin.com/in/sanidayalgupta">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sanidayalgupta10799@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
+## 👨‍💻 About Me
 
+I'm a Python Developer focused on building scalable backend systems and AI-powered enterprise applications.
 
-## 🔧 Skills
-
-
-
-### Programming Languages
-
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-
-
-### Web Frameworks
-
-- ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-
-- ![Django Rest Framework](https://img.shields.io/badge/DRF-ff1709?style=flat&logo=django&logoColor=white)
-
-
-
-### Web Development
-
-- ![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-FF6F00?style=flat)
-
-- MVT Architecture
-
-
-
-### Frontend Technologies
-
-- ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-
-- ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-- ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-
-- ![LitHTML](https://img.shields.io/badge/LitHTML-000000?style=flat&logo=lit&logoColor=white)
-
-- ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) (ing-web framework similar to React)
-
-
-
-### Version Control
-
-- ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-
-
-### Development Tools
-
-- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
-- ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
-
-
-### Troubleshooting
-
-- Issue Resolution
-
-- Code Debugging
-
-
-
-### Soft Skills
-
-- Communication
-
-- Teamwork
-
-
+- 🐍 **Backend:** Python | FastAPI | Django
+- 🤖 **AI & Agents:** Generative AI | Agentic AI | LLMs
+- 🧠 **Frameworks:** RAG | MCP | LangChain | LangGraph | ADK
+- ☁️ **Cloud:** GCP | AWS | Cloud Run | BigQuery | Pub/Sub
+- 🔧 **Focus:** Building AI agents, robust APIs, and workflow automation solutions
+- 🚀 **Goal:** Turning complex enterprise problems into simple, scalable, and intelligent systems
 
 ---
 
+## 🧠 What I Build
 
+<table>
+<tr>
+<td width="50%">
 
-## 🎓 Education
+### 🤖 AI & Agentic Systems
 
+* Agentic AI & Agent Deployment
+* Gemini Enterprise Solutions
+* Microsoft Copilot Studio
+* RAG Applications & MCP Tools
+* LLM Integrations
+* Prompt Engineering
+* ADK Integration
 
+</td>
 
-### Master of Technology
+<td width="50%">
 
-- **Institution**: Global Nature Care Sangathan's Group of Institution Engineering & Management
+### 🐍 Backend Engineering
 
-- **Duration**: 10/2020 - 12/2022
+* Python (FastAPI, Django, DRF)
+* REST APIs & Microservices
+* Pydantic
+* MS Power Automate Workflows
+* Celery & Redis
+* CI/CD Deployments
 
-- **Location**: Jabalpur, Madhya Pradesh
+</td>
+</tr>
 
-- **CGPA**: 9.55
+<tr>
+<td>
 
+### ☁️ Cloud Infrastructure
 
+* Google Cloud (GCP) & AWS
+* Cloud Run & Cloud SQL
+* BigQuery & Pub/Sub
+* EC2 & S3
+* Docker & Kubernetes
+* Jenkins & Nginx
 
-### Bachelor of Engineering
+</td>
 
-- **Institution**: Global Nature Care Sangathan's Group of Institution Engineering & Management
+<td>
 
-- **Duration**: 2016 - 2020
+### 🗄️ Data & Databases
 
-- **Location**: Jabalpur, Madhya Pradesh
+* SQL (PostgreSQL, MySQL, Oracle)
+* Vector Databases (FAISS, Chroma)
+* Pandas & NumPy
+* Database Optimization
 
-- **Major**: Computer Science & Engineering
-
-
-
----
-
-
-
-## 📜 Certification
-
-- **GCP Cloud Digital Leader** (01/2024 - 02/2024)
-
-
-
----
-
-
-
-## 🛠️ My Current Role
-
-
-
-In my current role as a Backend Developer, I focus on:
-
-- Designing, implementing, and deploying RESTful APIs using Django Rest Framework (DRF) in Python.
-
-- Creating, validating, authenticating, and deploying APIs to ensure secure and efficient backend operations.
-
-- Developing applications tailored for ETL developers, processing frontend input, and generating API responses with DDL and DSX files.
-
-
-
-![Backend Development](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
-
-
-
-Additionally, I contribute to frontend development using:
-
-- ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-
-- ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-- ![LitHTML](https://img.shields.io/badge/LitHTML-000000?style=flat&logo=lit&logoColor=white)
-
-- **ing-web framework** (similar to React)
-
-
-
-Through these technologies, I ensure a seamless and intuitive user experience.
-
-
+</td>
+</tr>
+</table>
 
 ---
 
+## ⚡ Tech Stack
 
+### 🤖 Generative AI & Agents
 
-## 🎯 Objective
+<p>
+  <img src="https://img.shields.io/badge/Agentic_AI-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agent_Deployment-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gemini_Enterprise-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Copilot_Studio-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/ADK-4B32C3?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-7B61FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
 
-Experienced Python developer with 2+ years of hands-on experience seeking new opportunities to apply and enhance skills in web development and backend engineering.
+### ☁️ Cloud & Deployments
 
+<p>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud_Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud_SQL-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pub/Sub-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deployments-000000?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
 
+### 🐍 Backend & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_Automate-0078D4?style=for-the-badge&logo=powerautomate&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ---
 
+## 💼 Experience
 
+### 🏢 Impetus Technologies
+**Python Developer · Mar 2026 – Present**
+* 🚀 Building an AI-powered Resource Management Portal using **FastAPI, React, Cloud Run, and Cloud SQL**.
+* 🤖 Designing intelligent workflow agents using **Microsoft Copilot Studio** and **Gemini Enterprise**.
+* 🔌 Developing **MCP tools** for enterprise database integration and secure knowledge access.
+* 🧠 Implementing robust **RAG** architectures for context-aware responses.
+* 🔄 Automating complex internal data pipelines using **MS Power Automate**.
+* 🧪 Ensuring service reliability with unit and integration tests using **Pytest**.
 
-## 📫 Reach Out to Me
+### 🏢 TEKsystems
+**Python Developer · Apr 2025 – Mar 2026**
+* Engineered backend services for the **HSBC Reconciliation Automation** platform.
+* Optimized complex SQL queries for high-volume transaction matching.
+* Built scalable REST APIs for operational metrics and dashboard reporting.
 
-- **Email**: [sanidayalgupta10799@gmail.com](mailto:sanidayalgupta10799@gmail.com)
+### 🏢 Bajaj Finserv Direct Limited
+**Python Developer · Oct 2024 – Apr 2025**
+* Maintained and upgraded Django-based Distributor Portals.
+* Designed asynchronous processing pipelines using **Celery and Redis**.
+* Managed cloud-native CI/CD pipelines and deployments on **AWS**.
 
-- **LinkedIn**: [linkedin.com/in/sanidayalgupta](https://www.linkedin.com/in/sanidayalgupta)
-
-
+### 🏢 HCL Technologies
+**Software Engineer · Sep 2021 – Oct 2024**
+* Developed enterprise Metadata Integration Tools using **Python and Django**.
+* Built automated ETL solutions to streamline backend workflows.
+* Authored REST APIs with strict authentication, validation, and pagination features.
 
 ---
 
+## 🔥 Featured Projects
 
+> 🚧 *Enterprise projects are kept private. Below is an overview of the architectures I build.*
 
-![Footer](https://media.giphy.com/media/26gslZT8g6BL9f75i/giphy.gif)
+### 🤖 AI Agent Platform
+An intelligent agent platform focused on enterprise workflows, tool calling, knowledge retrieval, and automation.
+**Tech:** `Python` `FastAPI` `Agentic AI` `MCP` `RAG` `LLMs` `ADK`
+
+### 🧠 Enterprise RAG Assistant
+A context-aware AI assistant that securely retrieves relevant information from internal knowledge sources before generating responses.
+**Tech:** `Python` `RAG` `Vector Database` `Gemini` `FastAPI` `GCP`
+
+### ⚡ Cloud-Native Microservices
+Production-oriented REST APIs with validation, authentication, database integration, testing, and scalable service architecture.
+**Tech:** `Python` `FastAPI` `Pydantic` `BigQuery` `Cloud Run` `Docker`
+
+---
+
+## 🎯 Currently Exploring
+
+```text
+🧠 Agentic AI & Deployment Architectures
+🔌 Model Context Protocol (MCP)
+📚 Retrieval Augmented Generation (RAG)
+🤖 Enterprise LLM Integrations
+☁️ Cloud-native AI Deployments on GCP
+⚡ Scalable Python Architectures
